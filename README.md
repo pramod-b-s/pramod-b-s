@@ -1,6 +1,5 @@
 - 👋 I am Pramod, a graduate student in Computer Sciences at the University of Wisconsin-Madison.
-- 👀 I’m interested in Systems and Machine Learning.
-- 💞️ I’m looking to collaborate on Machine Learning projects.
+- 👀 I’m interested in Distributed Systems and Machine Learning.
 - 📫 Please reach out to me with any opportunities to work together: psathyanaray@wisc.edu
 
 <!---
